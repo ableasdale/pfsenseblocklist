@@ -1,6 +1,8 @@
+# Block Bad Domains and Servers with Hosts File
 0.0.0.0 hivebedrock.network
 0.0.0.0 mineplex.com
 0.0.0.0 inpvp.net
 0.0.0.0 cubecraft.net
+0.0.0.0 www.cubecraft.net
 0.0.0.0 lbsg.net
 0.0.0.0 galaxite.net
