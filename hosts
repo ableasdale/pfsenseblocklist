@@ -1,17 +1,9 @@
-# Blocking Minecraft Featured Servers
+# Blocking Minecraft Featured Servers - set Wildcard Blocking (TLD) to true in DNSBL settings to disable access
 hivebedrock.network
 mineplex.com
 inpvp.net
 cubecraft.net
-www.cubecraft.net
 lbsg.net
-www.lbsg.net
+pixelparadise.gg
 galaxite.net
-www.enchanted.gg
-play.inpvp.net
-mco.lbsg.net
-mco.cubecraft.net
-geo.hivebedrock.network
-play.galaxite.net
-mco.mineplex.com
-play.pixelparadise.gg
+enchanted.gg
